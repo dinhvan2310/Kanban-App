@@ -20,19 +20,19 @@ This is useful for users who want to keep track of their tasks and manage them i
 
 1. Light Mode
 
-<img src="assets/login.png" width="400">
-<img src="assets/settings.png" width="400">
+<img src="assets/login.png" width="600">
+<img src="assets/settings.png" width="600">
 
-<img src="assets/addWorkspace.png" width="400">
-<img src="assets/board.png" width="400">
-<img src="assets/card.png" width="400">
-<img src="assets/filter.png" width="400">
-<img src="assets/workspaceSettings.png" width="400">
+<img src="assets/addWorkspace.png" width="600">
+<img src="assets/board.png" width="600">
+<img src="assets/card.png" width="600">
+<img src="assets/filter.png" width="600">
+<img src="assets/workspaceSettings.png" width="600">
 
 2. Dark Mode
 
-<img src="assets/dark_board.png" width="400">
-<img src="assets/dark_card.png" width="400">
+<img src="assets/dark_board.png" width="600">
+<img src="assets/dark_card.png" width="600">
 
 ## Installation
 
