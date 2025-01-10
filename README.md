@@ -20,25 +20,26 @@ This is useful for users who want to keep track of their tasks and manage them i
 
 1. Light Mode
 
-![alt text](assets/login.png)
-![alt text](assets/settings.png)
-![alt text](assets/addWorkspace.png)
-![alt text](assets/board.png)
-![alt text](assets/card.png)
-![alt text](assets/filter.png)
-![alt text](assets/workspaceSettings.png)
+<img src="assets/login.png" width="400">
+<img src="assets/settings.png" width="400">
+
+<img src="assets/addWorkspace.png" width="400">
+<img src="assets/board.png" width="400">
+<img src="assets/card.png" width="400">
+<img src="assets/filter.png" width="400">
+<img src="assets/workspaceSettings.png" width="400">
 
 2. Dark Mode
 
-![alt text](assets/dark_board.png)
-![alt text](assets/dark_card.png)
+<img src="assets/dark_board.png" width="400">
+<img src="assets/dark_card.png" width="400">
 
 ## Installation
 
 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/dinhvan2310/Kanban-App.git
 ```
 
 2. Install the dependencies
